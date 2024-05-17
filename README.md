@@ -3,10 +3,10 @@
 
 ### Latest Screenshot ###
 
-<img src="/Stock-Tracking-Spreadseet/blob/main/screenshots/screenshot1.png" width="450">  
-<img src="/Stock-Tracking-Spreadseet/blob/main/screenshots/screenshot2.png" width="450">  
-<img src="/Stock-Tracking-Spreadseet/blob/main/screenshots/screenshot3.png" width="450">  
-<img src="/Stock-Tracking-Spreadseet/blob/main/screenshots/screenshot4.png" width="450">  
+<img src="/blob/main/screenshots/screenshot1.png" width="450">  
+<img src="/blob/main/screenshots/screenshot2.png" width="450">  
+<img src="/blob/main/screenshots/screenshot3.png" width="450">  
+<img src="/blob/main/screenshots/screenshot4.png" width="450">  
 
 **Requirements**  
 This spreadsheet requires the excellent work by cmallwitz extension [here](https://github.com/cmallwitz/Financials-Extension?tab=License-1-ov-file) to operate.
