@@ -5,7 +5,7 @@
 
 ![ScreenShot](screenshot.gif)  
 
-**Requirements**
+**Requirements**  
 This spreadsheet requires the excellent work by cmallwitz extension [here](https://github.com/cmallwitz/Financials-Extension?tab=License-1-ov-file) to operate.
 
 **Installation**  
